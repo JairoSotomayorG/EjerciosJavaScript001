@@ -1,3 +1,6 @@
+
+// const y var son para variables son lo mismo pero funcionan diferente.
+
 const nombre = "jairo Sotomayor";
 
 const edad = 37;
